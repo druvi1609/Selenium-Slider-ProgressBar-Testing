@@ -1,0 +1,9 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Slider and Progress Bar Test Suite">
+    <test name="Selenium UI Tests">
+        <classes>
+            <class name="tests.SliderProgressBarTest"/>
+        </classes>
+    </test>
+</suite>
