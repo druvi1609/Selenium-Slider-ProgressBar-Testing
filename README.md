@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-CI/CD automation verified using Jenkins and Selenium.
-=======
 # Selenium Slider & Progress Bar Testing
 
 ## Project Overview
@@ -53,4 +50,3 @@ The project is integrated with Jenkins to retrieve source code from GitHub, exec
 
 ## Repository
 GitHub: https://github.com/druvi1609/Selenium-Slider-ProgressBar-Testing
->>>>>>> 67cc1fa (Add project documentation)
